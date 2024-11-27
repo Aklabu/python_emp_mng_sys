@@ -1,4 +1,4 @@
-# python_emp_mng_sys
+# Python Based Employee Management CLI Application
 
 ## Features 
 1. **Simple CLI interface**: Easy-to-use command-line interface.
